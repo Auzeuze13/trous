@@ -16,7 +16,7 @@ blah
 blah
 blah
 blah
-En chemin, Tintin m'a cogné la tête avant de me voler fusé.
+En chemin, Tintin m'a cogné la tête avant de me voler ma fusé.
 Depuis, je ne sais plus coder qu'en css.
 blah
 blah
